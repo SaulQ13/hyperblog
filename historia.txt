@@ -3,4 +3,9 @@ Esta es la historia de Saul Quenel
 Actualmente tiene 21 años pero se siente de 1, nació en México,
 muriendo por dentro
 
+<<<<<<< HEAD
 HOy hablaremos de su vida y obra maestra
+=======
+Mamahuevo glugluglu vida laboral
+Espada excalibur
+>>>>>>> cabecera
